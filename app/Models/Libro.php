@@ -28,4 +28,5 @@ class Libro extends Model
         ,'H'  => 'Historia'
         ,'FN'  => 'Fantasía'
     ];
+    
 }
